@@ -128,7 +128,7 @@ Features a dark SCADA-style interface with a live Sankey energy flow diagram, 6 
 
 **Try the live dashboard — no installation needed:**
 
-> 🚀 **[Launch Interactive Dashboard →](YOUR_STREAMLIT_URL)**
+> 🚀 **[Launch Interactive Dashboard →](https://gxdx-digital-twin.streamlit.app/)**
 
 To run locally:
 
@@ -160,7 +160,7 @@ python core/optimizer.py    # runs full pipeline and prints daily summary
 
 <br>
 
-## Check out the live interactive dashboard here: [GX×DX Digital Twin](YOUR_STREAMLIT_URL)
+## Check out the live interactive dashboard here: [GX×DX Digital Twin](https://gxdx-digital-twin.streamlit.app/)
 
 <br>
 

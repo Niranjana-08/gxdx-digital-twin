@@ -685,7 +685,7 @@ def render_sidebar():
         "<div style='font-family:IBM Plex Mono,monospace;font-size:0.65rem;"
         "color:#2a4a62;text-align:center;line-height:1.8;'>"
         "V NIRANJANA · IIT JODHPUR<br>"
-        "B.Tech Chemical Engineering<br>"
+        "B.Tech <br>"
         "GX×DX DIGITAL TWIN · 2025"
         "</div>",
         unsafe_allow_html=True
@@ -1427,7 +1427,7 @@ def render_footer():
     st.markdown("""
     <div class="footer">
         GX×DX CLOSED-LOOP DIGITAL TWIN &nbsp;·&nbsp;
-        V NIRANJANA · B.TECH CHEMICAL ENGINEERING · IIT JODHPUR &nbsp;·&nbsp;
+        V NIRANJANA · B.TECH  · IIT JODHPUR &nbsp;·&nbsp;
         MODULES: DATACENTER THERMAL · HEAT EXCHANGER (LMTD) · MEA-CCUS · SOLAR+BATTERY · OPTIMIZER &nbsp;·&nbsp;
         DATA: NASA POWER API
     </div>
