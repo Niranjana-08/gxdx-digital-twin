@@ -162,6 +162,4 @@ python core/optimizer.py    # runs full pipeline and prints daily summary
 
 ## Check out the live interactive dashboard here: [GX×DX Digital Twin](https://gxdx-digital-twin.streamlit.app/)
 
-<br>
-
 ---
