@@ -1,5 +1,4 @@
 
-# TEMP 
 # ⚡ GX×DX Closed-Loop Digital Twin
 
 This repository contains an end-to-end **physics-based simulation engine** designed to model, optimize, and visualize the integration of a renewable-powered modular data center with a **MEA-based CO₂ capture unit**. The core of the project involves coupling five thermodynamic modules — from server waste heat recovery to solar-driven CCUS regeneration — closing the loop between **Digital Transformation (DX)** and **Green Transformation (GX)**.
@@ -39,7 +38,6 @@ Waste heat from servers pre-heats the MEA solvent. Solar thermal collectors brid
 | `data/nasa_solar_data.json` | Cached NASA POWER hourly GHI data — auto-generated on first run per location. |
 | `outputs/pfd_diagram.svg` | Process Flow Diagram with equipment tags, stream numbers, and instrumentation symbols. |
 | `requirements.txt` | A list of Python libraries and dependencies required to run the project. |
-| `README.md` | This file. |
 
 <br>
 
@@ -167,8 +165,3 @@ python core/optimizer.py    # runs full pipeline and prints daily summary
 <br>
 
 ---
-
-**V Niranjana** · B.Tech Chemical Engineering · IIT Jodhpur (2023–2027)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
